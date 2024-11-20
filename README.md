@@ -7,11 +7,15 @@ This project explores various **machine learning models** for classification and
 ## Project Structure
 
 ```
-.
-├── proj3.zip               # Submission file containing the report and script
-├── report.pdf              # Detailed analysis and results
-├── script.py               # Python script with implementation
-└── README.md               # Project documentation
+MLINSIGHTS-DISCRIMINANTSANDREGRESSION/
+├── basecode/
+│   ├── diabetes.pickle           # Dataset for regression tasks
+│   ├── sample.pickle             # Dataset for classification tasks
+│   ├── report.pdf                # Final report with results and observations
+│   └── script.py                 # Main Python script implementing the models
+├── CSE574_project3_description.pdf  # Problem statement and assignment details
+└── README.md                     # Project overview and usage instructions
+
 ```
 
 ## Implemented Problems
